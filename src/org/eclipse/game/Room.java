@@ -6,6 +6,6 @@ public class Room {
 	int ammoBoxes;
 	
 	public Room(int x, int y) {
-		ammoBoxes = new Random(System.currentTimeMillis()).nextInt();
+		ammoBoxes = new Random(System.currentTimeMillis()).nextInt(7);
 	}
 }
