@@ -1,2 +1,2 @@
 # JavaGame
-Simple Java multiplayer roguelike game, with inspuration from Fornite and PUB-G
+Simple Java multiplayer roguelike game, with inspiration from Fornite and PUB-G
